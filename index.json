@@ -1,0 +1,5 @@
+CREATE TABLE pilote(
+Numpl INT,
+Nom VARCHAR2(15) NOT NULL,
+ville VARCHAR(20) NOT NULL,
+
